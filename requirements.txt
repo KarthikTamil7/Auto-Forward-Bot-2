@@ -1,2 +1,2 @@
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 TgCrypto
+pyrogram==1.4.8
